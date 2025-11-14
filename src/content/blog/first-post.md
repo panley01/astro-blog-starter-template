@@ -59,7 +59,7 @@ for the outputs of their models. Safe harbour protections apply to user generate
 company at the request of a user, using their models and their datasets. It is your responsibility as a provider to make sure the slop machine isn't willfully breaking
 the law. That is the bare minimum.
 
-<span class="text-gradient">
+<span style="color: #1f1f1fff">
 
 ### Medical Analysis
 
@@ -72,6 +72,8 @@ industry where workloads are already an incredible burden and time is the most i
 this technology has been trialled and has genuine potential. If the difference between life and death is putting some data into a machine that exists purely to analyze that
 data, maybe that machine isn't inherently bad. I'd imagine most people would agree with this, but not all, so welcome to the first shade of grey.
 
+</span><span style="color: #383838ff">
+
 ### Translation, language and accessibility
 
 Google Translate uses AI. This is nothing new. Duolingo uses AI. That's kinda new. Screen narrators can use AI for OCR. That's kinda new. Computer Vision models can use AI
@@ -81,6 +83,8 @@ at some point in their lives. Are you now an evil AI glazer? Probably not. If so
 leg to stand on in judging their use of AI? If you're abroad and need to communicate with someone in another language ugently, and you turn to Google Translate for both speech
 to text and translation, should you be made a pariah for using AI? There are times where the convenience and utility of this technology is more important than ethical opinions
 about that technology. It's your decision what those times are, but I think it's impossible to deny that those times do exist.
+
+</span><span style="color: #4e4e4eff">
 
 ### Vibe Coding and Agentic Assistants
 
@@ -95,6 +99,8 @@ I've used LLMs to turn JSON data into descriptive types. That's something I coul
 Agentic Assistant can often do just as well as a human. Most importantly, the stakes are low enough that if the agent fucks up, it's not going to cause catastrophic
 isses. Welcome to the first shade of grey. P.S. if you are primarily a vibe coder I do not respect you.
 
+</span><span style="color: #565555ff">
+
 ### Computer Vision taking the wheel
 
 "Full self driving soon!" yells Elon Musk, for the 100th time since selling vapourware to his customers. You hop in your Waymo and doomscroll when someone puts a
@@ -105,6 +111,8 @@ accident? I do not think this technology is inherently bad, but I also don't thi
 This may be a more controversial opinion, but it's one I hold. I see this restricted implementation of machine vision no differently than parking assist beeping at you while you double-park
 your SUV in the Walmart parking lot. It won't make bad drivers good drivers, won't make good drivers bad drivers, but it might help a driver in bad visual conditions drive a little safer.
 
+</span><span style="color: #5f5e5eff">
+
 ### Big tech makes you hate AI
 
 Tech bubbles. There's an infinitum of them. From the dot com boom to crypto grifts. AI is the latest in a long line of technologies companies have shoved down your throat for little to no
@@ -114,6 +122,8 @@ parasocial relationships, the misinformation. Because at the end of the day, eve
 because you hate companies like OpenAI, products like the "Friend" or Rabbit R1. These companies have turned an entire industry into a handful of buzzwords and you're sick of it. You can hate these
 companies and products without hating AI. You can have both of these opinions.
 
+</span><span style="color: #717171ff">
+
 ### Convenience vs Ethics
 
 If you find $100 on the floor, you're probably going to pocket it. If you find a wallet with $100 on the floor, maybe you take the money, maybe you return it. If you find an empty wallet on
@@ -122,6 +132,8 @@ convenience stacks up higher than their morals. Most of the online population wi
 It's up to you how to feel about that, and at which point you can rationalize that you're not doing anything bad by interacting with it. I have a lot of opinions, you've probably read them if you've
 made it this far. Maybe you agree with me, maybe you don't. But you do have a line and you should know exactly where it sits and be able to justify it. This technology isn't going anywhere and the more
 you can back up your stance on it, the more nuanced you're able to be, the more you'll be able to contribute to the conversation.
+
+</span><span style="color: #818181ff">
 
 ### Powering the machine gods
 
@@ -138,12 +150,3 @@ I think that technology will untimately progress and optimize when we hit a ceil
 And I think this issue is completely independent of discussuions of AI ethics.
 
 </span>
-
-<style>
-    .text-gradient {
-        background-image: linear-gradient(to bottom, #000000ff, #666666ff);
-        background-clip: text;
-        -webkit-background-clip: text;
-        color: transparent;
-    }
-</style>
