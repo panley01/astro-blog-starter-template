@@ -59,6 +59,8 @@ for the outputs of their models. Safe harbour protections apply to user generate
 company at the request of a user, using their models and their datasets. It is your responsibility as a provider to make sure the slop machine isn't willfully breaking
 the law. That is the bare minimum.
 
+<span class="text-gradient">
+
 ### Medical Analysis
 
 There are many time-sensitive conditions that require medical professionals to examine extensive medical scans and documentation. These conditions are often time-sensitive
@@ -134,3 +136,16 @@ you at home? What if the datacenter powering training exlusively uses green ener
 introspect on your morals, your boundaries, draw your line if you can and justify it. I think the rapid growth of the digital realm is only going to get more power hungry, no matter the technologies involved.
 I think that technology will untimately progress and optimize when we hit a ceiling. I think companies will always do whatever makes them the most money and natural resources will always come secondary to that.
 And I think this issue is completely independent of discussuions of AI ethics.
+
+</span>
+
+<style>
+    .text-gradient {
+        font-size: 20px;
+        font-weight: 700;
+        background-image: linear-gradient(to bottom, #000000ff, #666666ff);
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+    }
+</style>
