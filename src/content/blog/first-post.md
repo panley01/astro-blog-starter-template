@@ -141,8 +141,6 @@ And I think this issue is completely independent of discussuions of AI ethics.
 
 <style>
     .text-gradient {
-        font-size: 20px;
-        font-weight: 700;
         background-image: linear-gradient(to bottom, #000000ff, #666666ff);
         background-clip: text;
         -webkit-background-clip: text;
